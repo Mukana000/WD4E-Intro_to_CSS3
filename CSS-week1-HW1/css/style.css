@@ -13,12 +13,12 @@ nav {
 }
 
 main {
-    background-color: #df80ff;
+    background-color: #ffff66;
     font-size: 18px;
 }
 
 footer {
-    background-color: #e5e7eb;
+    background-color:#ddccff;
 }
 
 li {
@@ -29,7 +29,7 @@ li {
 h1 {
     text-align: center;
     font-family: Georgia, serif;
-    color: #cc00ff;
+    color: #ffff66;
 }
 
 p {
